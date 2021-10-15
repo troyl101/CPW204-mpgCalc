@@ -1,5 +1,5 @@
 body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: white;
     margin: 0 auto;
     width: 700px;
@@ -7,7 +7,7 @@ body {
     border: 3px solid blue;
 }
 h1 {
-	color: blue;
+	color: red;
 	margin-bottom: .25em;
 }
 label {
